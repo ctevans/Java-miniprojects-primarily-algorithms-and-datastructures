@@ -14,3 +14,6 @@ Staple sorts and searches category, includes the basics.
 
 Exactly as the (very long winded) title said. 
 
+
+
+### Please note: Most of these functions are not implemented in full out OO style, and often come with main functions attached. This is primarily meant to make testing and playing around with the algorithms extremely straight forward. 
